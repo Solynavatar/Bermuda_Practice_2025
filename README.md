@@ -8,7 +8,7 @@ The experimental environment involved in this experiment is as follows:
 | ---- | ---- |
 | Visual Studio Code | For debugging and synchronizing Github repository updates |
 | Pycharm 2025.1.1.1 | For testing some scripts quickly |
-| Python 3.12 | Used in Project 2, 3, 5 |
+| Python 3.12 | Used in Project 2, 3, 5, 6 |
 | C++ 98 | Used in Project 1, 4 |
 | g++ 15.1.0 | Compiling C++ codes |
 | rustc 1.88.0* | Used in Project 3 |
