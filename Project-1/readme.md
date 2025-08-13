@@ -1,5 +1,18 @@
 # Project 1
 
+本项目的文件结构如下：
+```
+Project-1
+├── readme.md  # 文档
+├── sm4.cpp   # SM4 算法的 C++ 代码
+├── sm4.exe
+├── sm4_gcm_modopt.cpp  # SM4 算法的 SM4-GCM 工作模式的 C++ 代码
+├── sm4_gcm_modopt.exe
+├── sm4_optimization.cpp  # 优化的 SM4 算法的 C++ 代码
+└── sm4_optimization.exe
+```
+
+
 ## 一、SM4 算法大致原理
 
 SM4 是中国国家密码管理局制定的分组密码标准，采用分组长度为128位，密钥长度为128位，支持加密和解密。它主要应用于无线局域网和移动通信安全领域。

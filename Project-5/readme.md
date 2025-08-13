@@ -1,5 +1,16 @@
 # Project 5
 
+本项目的文件结构如下：
+```
+Project-5
+├── readme.md  # 文档
+├── sm2.py  # SM2 算法的 Python 代码
+├── sm2_fake_satoshi_demo.py  # 基于 SM2 算法伪造中本聪数字签名的 Python 代码
+├── sm2_misuse_poc.py  # SM2 算法的常见误用展示的 Python 代码
+└── sm2_optimization.py  # 经过优化后的 SM2 算法的 Python 代码
+
+```
+
 ## 一、SM2 算法大致原理
 
 SM2 是我国自主设计的基于 **椭圆曲线密码学（ECC）** 的公钥密码算法，由国家密码管理局发布（GB/T 32918-2016），主要应用于：数字签名，数据加密和密钥交换等领域。

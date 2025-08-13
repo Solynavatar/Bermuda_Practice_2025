@@ -1,5 +1,20 @@
 # Project 4
 
+本项目的文件结构如下：
+```
+Project-4
+├── readme.md  # 文档
+├── sm3.cpp  # SM3 算法的 C++ 代码
+├── sm3.exe
+├── sm3_extension.cpp  # 基于 SM3 的扩展长度攻击的 C++ 代码
+├── sm3_extension.exe
+├── sm3_optimization.cpp  # 经过优化后的 SM3 算法的 C++ 代码
+├── sm3_optimization.exe
+├── sm3_tree.cpp  # 基于 SM3 算法的 Merkle 树的构造的 C++ 代码
+└── sm3_tree.exe
+
+```
+
 ## 一、SM3 算法大致原理
 
 SM3 是中国国家密码管理局发布的密码杂凑函数标准，类似于 SHA-256，主要用于信息安全领域的数据完整性保护和数字签名。
